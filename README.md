@@ -1,5 +1,5 @@
 # LQR Control for Chaotic Systems
-This repo is intended to hold the scripts I've developed for my final paper as an undergrad student in Control and Automaition Engineering.
+This repo is intended to hold the scripts I've developed for my final paper as an undergrad student in Control and Automation Engineering.
 
 In these folders you'll find source code for five different chaotic systems:
 
